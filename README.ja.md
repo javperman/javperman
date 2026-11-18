@@ -19,8 +19,8 @@
 日本の退職代行 SaaS。LINE からの受付、安全な Web フォーム、AI 音声・翻訳、Cloudflare / Next.js の本番スタックを担当しています。技術方針とプロダクトの提供を担当。  
 → [ケーススタディ](https://github.com/javperman/portfolio/tree/main/case-studies/taishoku-reset) · コードの概要説明は NDA の範囲で可能です
 
-**コンサルタント — Minsait (Indra)**  
-企業向け AI と自動化のコンサルティング。クライアントのコード、データ、プロジェクト詳細は公開しません。
+**コンサルタント — Minsait (Indra)** · マドリード / リモート · 2023年3月 – 現在  
+企業向け資産管理のデータエンジニアリングと自動化。Python による ETL（pandas、numpy、oracledb、openpyxl）、PL/SQL と Oracle SQL、Power BI ダッシュボード、IBM Maximo / IBM MAS を担当。顧客と直接やり取りして要件定義や重大インシデント対応を行い、ジュニアのメンタリングも担当。Data Analyst（2023年3月 – 2025年1月）として開始。クライアントのコード、データ、プロジェクト詳細は公開しません。
 
 **創業者 — [Peresotech](https://peresotech.com)**  
 AI と自動化の独立スタジオ。Web プロダクト、音声・LLM 連携、応用研究。
@@ -36,7 +36,6 @@ AI と自動化の独立スタジオ。Web プロダクト、音声・LLM 連携
 | **[video-editor-ai](https://github.com/javperman/video-editor-ai)** | 技術チュートリアル向けの決定的な編集パイプライン。`edit_plan.json`、不変リビジョン、ローカル ASR、字幕、PiP、NVENC レンダー、QC。30 分 → 約 7.6 分、ピーク 2.5 GB。 | [コード](https://github.com/javperman/video-editor-ai) |
 | **[FitPrimeLab](https://fitprimelab.com)** | EN/ES/PT/JA の多言語フィットネスプラットフォーム。インタラクティブなツールと記事。 | [サイト](https://fitprimelab.com) · [コード](https://github.com/javperman/fitprimelab-site) |
 | **[AI Engineering Playbook](https://github.com/javperman/ai-engineering-playbook)** | エージェントとの開発方法。AGENTS.md の契約、フェーズ計画、レビュー、テスト、MCP、秘密情報の管理。 | [コード](https://github.com/javperman/ai-engineering-playbook) |
-| **[Spain Japan Support](https://spainjapansupport.com)** | スペインと日本を行き来する人のための生活・移住サポートサイト。 | [サイト](https://spainjapansupport.com) |
 
 ---
 
@@ -80,6 +79,6 @@ LLM / エージェント · Cloudflare Workers/D1/KV · Gemini/Vertex AI · fast
 
 - LinkedIn: [javier-perez-manzano](https://www.linkedin.com/in/javier-perez-manzano)
 - Email: [contact@peresotech.com](mailto:contact@peresotech.com)
-- プロダクト: [Taishoku Reset](https://taishokureset.com) · [FitPrimeLab](https://fitprimelab.com) · [Spain Japan Support](https://spainjapansupport.com)
+- プロダクト: [Taishoku Reset](https://taishokureset.com) · [FitPrimeLab](https://fitprimelab.com)
 
 <sub>クライアントのコード、顧客データ、認証情報、内部指標は公開しません。ケーススタディは、許可された範囲でアーキテクチャと提供内容を説明します。</sub>

@@ -18,8 +18,8 @@ Me importan las partes menos vistosas: planes deterministas, tests, revisión hu
 SaaS japonés de 退職代行 con entrada por LINE, formularios web seguros, voz/traducción con IA y un stack de producción Cloudflare/Next.js. Llevo la dirección técnica y la entrega del producto.  
 → [Caso de estudio](https://github.com/javperman/portfolio/tree/main/case-studies/taishoku-reset) · recorrido de código bajo NDA
 
-**Consultor — Minsait (Indra)**  
-Consultoría de IA y automatización empresarial. No publico código, datos ni detalles de proyectos de clientes.
+**Consultor — Minsait (Indra)** · Madrid / Remoto · mar. 2023 – actualidad  
+Ingeniería de datos y automatización para la gestión de activos empresariales: ETL con Python (pandas, numpy, oracledb, openpyxl), PL/SQL y SQL sobre Oracle, dashboards en Power BI e IBM Maximo / IBM MAS. Trato directo con el cliente para requisitos e incidencias críticas, y mentoring de perfiles junior. Empecé como Data Analyst (mar. 2023 – ene. 2025). No publico código, datos ni detalles de proyectos de clientes.
 
 **Fundador — [Peresotech](https://peresotech.com)**  
 Estudio independiente de IA y automatización: productos web, integraciones de voz/LLM e investigación aplicada.
@@ -35,7 +35,6 @@ Estudio independiente de IA y automatización: productos web, integraciones de v
 | **[video-editor-ai](https://github.com/javperman/video-editor-ai)** | Pipeline determinista de edición para tutoriales técnicos: `edit_plan.json`, revisiones inmutables, ASR local, subtítulos, PiP, render NVENC y QC. 30 min → ~7,6 min, 2,5 GB pico. | [Código](https://github.com/javperman/video-editor-ai) |
 | **[FitPrimeLab](https://fitprimelab.com)** | Plataforma de fitness multilingüe con herramientas interactivas y contenido editorial en EN/ES/PT/JA. | [Web](https://fitprimelab.com) · [Código](https://github.com/javperman/fitprimelab-site) |
 | **[AI Engineering Playbook](https://github.com/javperman/ai-engineering-playbook)** | Cómo construyo con agentes: contratos AGENTS.md, planes por fases, checklists, tests, MCP e higiene de secretos. | [Código](https://github.com/javperman/ai-engineering-playbook) |
-| **[Spain Japan Support](https://spainjapansupport.com)** | Web de apoyo a la reubicación y la vida entre España y Japón. | [Web](https://spainjapansupport.com) |
 
 ---
 
@@ -79,6 +78,6 @@ Herramientas: **OpenCode**, **Claude Code**, **Gemini API** y el stack habitual 
 
 - LinkedIn: [javier-perez-manzano](https://www.linkedin.com/in/javier-perez-manzano)
 - Email: [contact@peresotech.com](mailto:contact@peresotech.com)
-- Productos: [Taishoku Reset](https://taishokureset.com) · [FitPrimeLab](https://fitprimelab.com) · [Spain Japan Support](https://spainjapansupport.com)
+- Productos: [Taishoku Reset](https://taishokureset.com) · [FitPrimeLab](https://fitprimelab.com)
 
 <sub>No publico código de clientes, datos de clientes, credenciales ni métricas internas. Los casos de estudio describen arquitectura y entrega en el nivel autorizado.</sub>

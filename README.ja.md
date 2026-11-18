@@ -1,4 +1,3 @@
-<!-- DRAFT: pending native review before publication. -->
 <div align="center">
   <img src="assets/banner.svg" alt="Javier Pérez Manzano — AI and Automation Engineer" width="100%">
 </div>
@@ -33,7 +32,7 @@ AI と自動化の独立スタジオ。Web プロダクト、音声・LLM 連携
 |---|---|---|
 | **[Taishoku Reset](https://taishokureset.com)** | 本番稼働中の日本の退職代行 SaaS。LINE、安全なフォーム、AI 音声・翻訳、運用フロー。 | [ケーススタディ](https://github.com/javperman/portfolio/tree/main/case-studies/taishoku-reset) |
 | **[JA ⇄ ES Live Interpreter](https://github.com/javperman/interprete-ja-es)** | Linux の Meet/Teams 向け日西双方向通訳。PipeWire、faster-whisper、Gemini/Vertex、VOICEVOX、Piper、GTK4。185 テスト。 | [コード](https://github.com/javperman/interprete-ja-es) |
-| **[video-editor-ai](https://github.com/javperman/video-editor-ai)** | 技術チュートリアル向けの決定的な編集パイプライン。`edit_plan.json`、不変リビジョン、ローカル ASR、字幕、PiP、NVENC レンダー、QC。30 分 → 約 7.6 分、ピーク 2.5 GB。 | [コード](https://github.com/javperman/video-editor-ai) |
+| **[video-editor-ai](https://github.com/javperman/video-editor-ai)** | 技術チュートリアル向けの決定的な編集パイプライン。`edit_plan.json`、不変リビジョン、ローカル ASR、字幕、PiP、NVENC レンダー、QC。30 分 → 約 7.6 分、ピーク 2.5 GB。 | [コード](https://github.com/javperman/video-editor-ai) · [デモ](https://youtu.be/XcZ60adpBms) |
 | **[FitPrimeLab](https://fitprimelab.com)** | EN/ES/PT/JA の多言語フィットネスプラットフォーム。インタラクティブなツールと記事。 | [サイト](https://fitprimelab.com) · [コード](https://github.com/javperman/fitprimelab-site) |
 | **[AI Engineering Playbook](https://github.com/javperman/ai-engineering-playbook)** | エージェントとの開発方法。AGENTS.md の契約、フェーズ計画、レビュー、テスト、MCP、秘密情報の管理。 | [コード](https://github.com/javperman/ai-engineering-playbook) |
 
